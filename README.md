@@ -1,2 +1,8 @@
 # NikePrelovedOnlineStore
-An online store selling preloved nike shoes. A client-side only website built using PHP, HTML, CSS.
+An online store selling preloved nike shoes.
+
+Front-End only.
+Features:
+- Home Page
+- Item Page
+- Cart List
